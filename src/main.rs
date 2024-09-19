@@ -42,5 +42,7 @@ fn main() {
             // TODO: tree traversal
         },
         _ => println!("Unknown algorithm: {}", args[1]),
+
+        // TODO: add more algorithms
     }
 }
